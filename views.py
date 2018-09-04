@@ -3,4 +3,10 @@ import random
 def rd():
     print(random.random())
 
-add()
+rd()
+
+def index():
+    a = 1 + 1
+    return a
+
+index()
